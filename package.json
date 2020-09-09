@@ -1,0 +1,20 @@
+{
+    "name": "toccer-core",
+    "version": "1.0.0",
+    "description": "Markdown Table of Contents generator.",
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cAttte/toccer.git"
+    },
+    "author": "catte_",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cAttte/toccer/issues"
+    },
+    "homepage": "https://github.com/cAttte/toccer#readme",
+    "dependencies": {
+        "marked": "^1.1.1",
+        "validate.js": "^0.13.1"
+    }
+}
