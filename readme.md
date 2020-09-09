@@ -116,3 +116,7 @@ Whether to use numbered/ordered lists in the TOC.
 
 -   **Type:** `boolean`
 -   **Default:** `false`
+
+## License
+
+[MIT](https://github.com/cAttte/toccer/blob/master/license) License
